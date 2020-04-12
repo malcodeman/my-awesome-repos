@@ -33,6 +33,7 @@
 - [cmc-api-wrapper](https://github.com/malcodeman/cmc-api-wrapper) - Fast, reliable and unified data APIs to cryptocurrency markets.
 - [micro-reddit](https://github.com/malcodeman/micro-reddit) - Microservice for getting direct image | video links from subreddits.
 - [qa-server](https://github.com/malcodeman/qa-server) - Simple RESTful API imagined as a private, secure home for organization’s questions and answers.
+- [node-boilerplate](https://github.com/malcodeman/node-boilerplate) - Node boilerplate.
 
 ## Python
 
