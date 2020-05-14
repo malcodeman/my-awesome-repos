@@ -6,6 +6,8 @@
 - [malcomponents](https://github.com/malcodeman/malcomponents) - Collection of React components.
 - [malicons](https://github.com/malcodeman/malicons) - Collection of icons for React.
 - [react-popover](https://github.com/malcodeman/react-popover) - The Popover component.
+- [react-modal](https://github.com/malcodeman/react-modal) - The Modal component is used to show content on top of an overlay.
+- [react-button-group](https://github.com/malcodeman/react-button-group) - A button group is a set of two or more button segments.
 
 ## React
 
