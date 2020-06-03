@@ -26,6 +26,7 @@
 - [pomodoro-app](https://github.com/malcodeman/pomodoro-app) - Small, simple and sweet time management app.
 - [influencer-db-admin](https://github.com/malcodeman/influencer-db-admin) - Admin dashboard for influencer platform.
 - [influencer-db-client](https://github.com/malcodeman/influencer-db-client) - Influencer platform.
+- [redux-saga-recipes](https://github.com/malcodeman/redux-saga-recipes) - Redux Saga recipes.
 
 ## Node
 
