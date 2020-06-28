@@ -27,6 +27,8 @@
 - [influencer-db-admin](https://github.com/malcodeman/influencer-db-admin) - Admin dashboard for influencer platform.
 - [influencer-db-client](https://github.com/malcodeman/influencer-db-client) - Influencer platform.
 - [redux-saga-recipes](https://github.com/malcodeman/redux-saga-recipes) - Redux Saga recipes.
+- [asset-tracker-frontend](https://github.com/malcodeman/asset-tracker-frontend) - Software for maintenance & facilities.
+- [analytics-frontend](https://github.com/malcodeman/analytics-frontend) - Simple analytics for startups.
 
 ## Node
 
@@ -37,6 +39,8 @@
 - [micro-reddit](https://github.com/malcodeman/micro-reddit) - Microservice for getting direct image | video links from subreddits.
 - [qa-server](https://github.com/malcodeman/qa-server) - Simple RESTful API imagined as a private, secure home for organization’s questions and answers.
 - [node-boilerplate](https://github.com/malcodeman/node-boilerplate) - Node boilerplate.
+- [asset-tracker-backend](https://github.com/malcodeman/asset-tracker-backend) - Simple REST API.
+- [analytics-backend](https://github.com/malcodeman/analytics-backend) - Simple graphQL mongoDB API.
 
 ## Python
 
