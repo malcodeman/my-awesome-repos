@@ -66,6 +66,10 @@
 
 - [company.com-frontend](https://github.com/malcodeman/company.com-frontend) - My company website.
 
+## Strapi
+
+- [company.com-cms](https://github.com/malcodeman/company.com-cms) - CMS for my company website.
+
 ## Bots
 
 - [year-progress-bot](https://github.com/malcodeman/year-progress-bot) - Small telegram bot for showing year progress.
