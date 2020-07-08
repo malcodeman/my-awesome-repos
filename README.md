@@ -62,6 +62,10 @@
 - [things-clone](https://github.com/malcodeman/things-clone) - Yet another personal task manager.
 - [freelance-artist](https://github.com/malcodeman/freelance-artist) - Art and Illustration website.
 
+## Next.js
+
+- [company.com-frontend](https://github.com/malcodeman/company.com-frontend) - My company website.
+
 ## Bots
 
 - [year-progress-bot](https://github.com/malcodeman/year-progress-bot) - Small telegram bot for showing year progress.
