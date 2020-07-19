@@ -42,6 +42,10 @@
 - [asset-tracker-backend](https://github.com/malcodeman/asset-tracker-backend) - Simple REST API.
 - [analytics-backend](https://github.com/malcodeman/analytics-backend) - Simple graphQL mongoDB API.
 
+## Swift
+
+- [i-am-rich-app](https://github.com/malcodeman/i-am-rich-app) - First iOS project.
+
 ## Python
 
 - [micro-instagram](https://github.com/malcodeman/micro-instagram) - Microservice for getting instagram images.
