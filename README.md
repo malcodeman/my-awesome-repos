@@ -69,6 +69,7 @@
 ## Next.js
 
 - [company.com-frontend](https://github.com/malcodeman/company.com-frontend) - My company website.
+- [bosnianswho.design](https://github.com/malcodeman/bosnianswho.design) - Directory of accomplished Bosnians in the IT industry.
 
 ## Strapi
 
