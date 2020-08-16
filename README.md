@@ -8,6 +8,7 @@
 - [react-popover](https://github.com/malcodeman/react-popover) - The Popover component.
 - [react-modal](https://github.com/malcodeman/react-modal) - The Modal component is used to show content on top of an overlay.
 - [react-button-group](https://github.com/malcodeman/react-button-group) - A button group is a set of two or more button segments.
+- [image-uploader](https://github.com/malcodeman/image-uploader) - Image uploader UI
 
 ## React
 
