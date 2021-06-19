@@ -48,6 +48,10 @@
 
 - [i-am-rich-app](https://github.com/malcodeman/i-am-rich-app) - First iOS project.
 
+## Kotlin
+
+- [forum-android-app](https://github.com/malcodeman/forum-android-app) - Simple reddit clone.
+
 ## Python
 
 - [micro-instagram](https://github.com/malcodeman/micro-instagram) - Microservice for getting instagram images.
