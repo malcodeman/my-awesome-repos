@@ -51,6 +51,7 @@
 ## Kotlin
 
 - [forum-android-app](https://github.com/malcodeman/forum-android-app) - Simple reddit clone.
+- [noti](https://github.com/malcodeman/noti) - Todo app.
 
 ## Python
 
