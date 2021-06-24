@@ -31,6 +31,7 @@
 - [asset-tracker-frontend](https://github.com/malcodeman/asset-tracker-frontend) - Software for maintenance & facilities.
 - [analytics-frontend](https://github.com/malcodeman/analytics-frontend) - Simple analytics for startups.
 - [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
+- [image-compressor](https://github.com/malcodeman/image-compressor) - Browser based image compressor.
 
 ## Node
 
