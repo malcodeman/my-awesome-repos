@@ -32,6 +32,7 @@
 - [analytics-frontend](https://github.com/malcodeman/analytics-frontend) - Simple analytics for startups.
 - [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
 - [image-compressor](https://github.com/malcodeman/image-compressor) - Browser based image compressor.
+- [bakelane-client](https://github.com/malcodeman/bakelane-client) - Recovery and redistribution of safe and nutritious food client.
 
 ## Node
 
@@ -44,6 +45,7 @@
 - [node-boilerplate](https://github.com/malcodeman/node-boilerplate) - Node boilerplate.
 - [asset-tracker-backend](https://github.com/malcodeman/asset-tracker-backend) - Simple REST API.
 - [analytics-backend](https://github.com/malcodeman/analytics-backend) - Simple graphQL mongoDB API.
+- [bakelane-api](https://github.com/malcodeman/bakelane-api) - Recovery and redistribution of safe and nutritious food api.
 
 ## Swift
 
