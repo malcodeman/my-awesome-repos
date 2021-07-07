@@ -31,7 +31,7 @@
 - [asset-tracker-frontend](https://github.com/malcodeman/asset-tracker-frontend) - Software for maintenance & facilities.
 - [analytics-frontend](https://github.com/malcodeman/analytics-frontend) - Simple analytics for startups.
 - [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
-- [image-compressor](https://github.com/malcodeman/image-compressor) - Browser based image compressor.
+- [image-mods](https://github.com/malcodeman/image-mods) - Tools for working with images.
 - [bakelane-client](https://github.com/malcodeman/bakelane-client) - Recovery and redistribution of safe and nutritious food client.
 
 ## Node
