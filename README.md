@@ -33,6 +33,7 @@
 - [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
 - [image-mods](https://github.com/malcodeman/image-mods) - Tools for working with images.
 - [bakelane-client](https://github.com/malcodeman/bakelane-client) - Recovery and redistribution of safe and nutritious food client.
+- [loyalty-program](https://github.com/malcodeman/loyalty-program) - Loyalty and Engagement program web app, powered by Notion as a database.
 
 ## Node
 
