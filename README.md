@@ -66,7 +66,6 @@
 ## Static
 
 - [periodic-grid](https://github.com/malcodeman/periodic-grid) - Utilizes css grid, css modules, viewport units and typescript.
-- [malcodeman.com](https://github.com/malcodeman/malcodeman.com) - My online portfolio.
 - [sign-up-template](https://github.com/malcodeman/sign-up-template) - Grid based sign up page.
 - [gallery-generator-theme](https://github.com/malcodeman/gallery-generator-theme) - Simple instagram-like image gallery.
 - [travel](https://github.com/malcodeman/travel) - Website for some imaginary travel agency.
@@ -81,6 +80,10 @@
 
 - [company.com-frontend](https://github.com/malcodeman/company.com-frontend) - My company website.
 - [bosnianswho.design](https://github.com/malcodeman/bosnianswho.design) - Directory of accomplished Bosnians in the IT industry.
+- [loyalty-program](https://github.com/malcodeman/loyalty-program) - Loyalty and engagement program web app, powered by Notion as a database.
+- [malcodeman.com](https://github.com/malcodeman/malcodeman.com) - My online portfolio.
+- [mersihaceranic.com](https://github.com/malcodeman/mersihaceranic.com) - Mersiha Ćeranić profile page.
+- [resumebuilder.dev](https://github.com/malcodeman/resumebuilder.dev) - Free resume builder for developers.
 
 ## Strapi
 
