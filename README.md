@@ -33,7 +33,6 @@
 - [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
 - [image-mods](https://github.com/malcodeman/image-mods) - Tools for working with images.
 - [bakelane-client](https://github.com/malcodeman/bakelane-client) - Recovery and redistribution of safe and nutritious food client.
-- [loyalty-program](https://github.com/malcodeman/loyalty-program) - Loyalty and Engagement program web app, powered by Notion as a database.
 
 ## Node
 
@@ -84,6 +83,7 @@
 - [malcodeman.com](https://github.com/malcodeman/malcodeman.com) - My online portfolio.
 - [mersihaceranic.com](https://github.com/malcodeman/mersihaceranic.com) - Mersiha Ćeranić profile page.
 - [resumebuilder.dev](https://github.com/malcodeman/resumebuilder.dev) - Free resume builder for developers.
+- [datamock](https://github.com/malcodeman/datamock) - Random data generator.
 
 ## Strapi
 
@@ -92,6 +92,7 @@
 ## Bots
 
 - [year-progress-bot](https://github.com/malcodeman/year-progress-bot) - Small telegram bot for showing year progress.
+- [birthday-bot](https://github.com/malcodeman/birthday-bot) - Birthday bot is a slack app for keeping track of office birthdays.
 
 ## Angular
 
