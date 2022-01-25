@@ -25,7 +25,6 @@
 - [reminders](https://github.com/malcodeman/reminders) - To-Do App.
 - [qa-client](https://github.com/malcodeman/qa-client) - Unlimited private questions and answers in a searchable archive.
 - [pomodoro-app](https://github.com/malcodeman/pomodoro-app) - Small, simple and sweet time management app.
-- [influencer-db-admin](https://github.com/malcodeman/influencer-db-admin) - Admin dashboard for influencer platform.
 - [influencer-db-client](https://github.com/malcodeman/influencer-db-client) - Influencer platform.
 - [redux-saga-recipes](https://github.com/malcodeman/redux-saga-recipes) - Redux Saga recipes.
 - [asset-tracker-frontend](https://github.com/malcodeman/asset-tracker-frontend) - Software for maintenance & facilities.
@@ -86,6 +85,7 @@
 - [datamock](https://github.com/malcodeman/datamock) - Random data generator.
 - [blockchain-explorer](https://github.com/malcodeman/blockchain-explorer) - Blockchain information for blocks & transactions.
 - [remithub](https://github.com/malcodeman/remithub) - Find, compare and review money transfer providers.
+- [ntf-marketplace](https://github.com/malcodeman/nft-marketplace) - Simple NFT marketplace using opensea api.
 
 ## Strapi
 
