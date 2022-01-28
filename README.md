@@ -29,8 +29,6 @@
 - [redux-saga-recipes](https://github.com/malcodeman/redux-saga-recipes) - Redux Saga recipes.
 - [asset-tracker-frontend](https://github.com/malcodeman/asset-tracker-frontend) - Software for maintenance & facilities.
 - [analytics-frontend](https://github.com/malcodeman/analytics-frontend) - Simple analytics for startups.
-- [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
-- [image-mods](https://github.com/malcodeman/image-mods) - Tools for working with images.
 - [bakelane-client](https://github.com/malcodeman/bakelane-client) - Recovery and redistribution of safe and nutritious food client.
 
 ## Node
@@ -85,7 +83,9 @@
 - [datamock](https://github.com/malcodeman/datamock) - Random data generator.
 - [blockchain-explorer](https://github.com/malcodeman/blockchain-explorer) - Blockchain information for blocks & transactions.
 - [remithub](https://github.com/malcodeman/remithub) - Find, compare and review money transfer providers.
-- [ntf-marketplace](https://github.com/malcodeman/nft-marketplace) - Simple NFT marketplace using opensea api.
+- [nft-marketplace](https://github.com/malcodeman/nft-marketplace) - Simple NFT marketplace using opensea api.
+- [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
+- [image-mods](https://github.com/malcodeman/image-mods) - Tools for working with images.
 
 ## Strapi
 
