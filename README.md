@@ -86,6 +86,7 @@
 - [nft-marketplace](https://github.com/malcodeman/nft-marketplace) - Simple NFT marketplace using opensea api.
 - [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
 - [image-mods](https://github.com/malcodeman/image-mods) - Tools for working with images.
+- [logik](https://github.com/malcodeman/logik) - Platform for logical reasoning tests.
 
 ## Strapi
 
