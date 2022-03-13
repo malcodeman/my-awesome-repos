@@ -12,7 +12,6 @@
 
 ## React
 
-- [yaml-2-env](https://github.com/malcodeman/yaml-2-env) - Simple YAML to .env convertor.
 - [malicons-site](https://github.com/malcodeman/malicons-site) - Documentation site for malicons.
 - [react-boilerplate](https://github.com/malcodeman/react-boilerplate) - React boilerplate.
 - [apage-client](https://github.com/malcodeman/apage-client) - Single-page websites for all kinds of things.
@@ -24,12 +23,33 @@
 - [reader](https://github.com/malcodeman/reader) - All-in-One news reader.
 - [reminders](https://github.com/malcodeman/reminders) - To-Do App.
 - [qa-client](https://github.com/malcodeman/qa-client) - Unlimited private questions and answers in a searchable archive.
-- [pomodoro-app](https://github.com/malcodeman/pomodoro-app) - Small, simple and sweet time management app.
 - [influencer-db-client](https://github.com/malcodeman/influencer-db-client) - Influencer platform.
 - [redux-saga-recipes](https://github.com/malcodeman/redux-saga-recipes) - Redux Saga recipes.
 - [asset-tracker-frontend](https://github.com/malcodeman/asset-tracker-frontend) - Software for maintenance & facilities.
 - [analytics-frontend](https://github.com/malcodeman/analytics-frontend) - Simple analytics for startups.
 - [bakelane-client](https://github.com/malcodeman/bakelane-client) - Recovery and redistribution of safe and nutritious food client.
+
+## React Native
+
+- [noti](https://github.com/malcodeman/noti) - Todo app.
+
+## Next.js
+
+- [company.com-frontend](https://github.com/malcodeman/company.com-frontend) - My company website.
+- [bosnianswho.design](https://github.com/malcodeman/bosnianswho.design) - Directory of accomplished Bosnians in the IT industry.
+- [loyalty-program](https://github.com/malcodeman/loyalty-program) - Loyalty and engagement program web app, powered by Notion as a database.
+- [malcodeman.com](https://github.com/malcodeman/malcodeman.com) - My online portfolio.
+- [mersihaceranic.com](https://github.com/malcodeman/mersihaceranic.com) - Mersiha Ćeranić profile page.
+- [resumebuilder.dev](https://github.com/malcodeman/resumebuilder.dev) - Free resume builder for developers.
+- [datamock](https://github.com/malcodeman/datamock) - Random data generator.
+- [blockchain-explorer](https://github.com/malcodeman/blockchain-explorer) - Blockchain information for blocks & transactions.
+- [remithub](https://github.com/malcodeman/remithub) - Find, compare and review money transfer providers.
+- [nft-marketplace](https://github.com/malcodeman/nft-marketplace) - Simple NFT marketplace using opensea api.
+- [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
+- [image-mods](https://github.com/malcodeman/image-mods) - Tools for working with images.
+- [logik](https://github.com/malcodeman/logik) - Platform for logical reasoning tests.
+- [yaml-2-env](https://github.com/malcodeman/yaml-2-env) - Simple YAML to .env convertor.
+- [pomodoro-app](https://github.com/malcodeman/pomodoro-app) - Small, simple and sweet time management app.
 
 ## Node
 
@@ -51,7 +71,6 @@
 ## Kotlin
 
 - [forum-android-app](https://github.com/malcodeman/forum-android-app) - Simple reddit clone.
-- [noti](https://github.com/malcodeman/noti) - Todo app.
 
 ## Python
 
@@ -71,22 +90,6 @@
 - [patterns](https://github.com/malcodeman/patterns) - Neat example of CSS Grid and collection of my favourite patterns.
 - [things-clone](https://github.com/malcodeman/things-clone) - Yet another personal task manager.
 - [freelance-artist](https://github.com/malcodeman/freelance-artist) - Art and Illustration website.
-
-## Next.js
-
-- [company.com-frontend](https://github.com/malcodeman/company.com-frontend) - My company website.
-- [bosnianswho.design](https://github.com/malcodeman/bosnianswho.design) - Directory of accomplished Bosnians in the IT industry.
-- [loyalty-program](https://github.com/malcodeman/loyalty-program) - Loyalty and engagement program web app, powered by Notion as a database.
-- [malcodeman.com](https://github.com/malcodeman/malcodeman.com) - My online portfolio.
-- [mersihaceranic.com](https://github.com/malcodeman/mersihaceranic.com) - Mersiha Ćeranić profile page.
-- [resumebuilder.dev](https://github.com/malcodeman/resumebuilder.dev) - Free resume builder for developers.
-- [datamock](https://github.com/malcodeman/datamock) - Random data generator.
-- [blockchain-explorer](https://github.com/malcodeman/blockchain-explorer) - Blockchain information for blocks & transactions.
-- [remithub](https://github.com/malcodeman/remithub) - Find, compare and review money transfer providers.
-- [nft-marketplace](https://github.com/malcodeman/nft-marketplace) - Simple NFT marketplace using opensea api.
-- [cookie-clicker](https://github.com/malcodeman/cookie-clicker) - Cookie clicker clone.
-- [image-mods](https://github.com/malcodeman/image-mods) - Tools for working with images.
-- [logik](https://github.com/malcodeman/logik) - Platform for logical reasoning tests.
 
 ## Strapi
 
