@@ -50,6 +50,7 @@
 - [logik](https://github.com/malcodeman/logik) - Platform for logical reasoning tests.
 - [yaml-2-env](https://github.com/malcodeman/yaml-2-env) - Simple YAML to .env convertor.
 - [pomodoro-app](https://github.com/malcodeman/pomodoro-app) - Small, simple and sweet time management app.
+- [bookmark-manager](https://github.com/malcodeman/bookmark-manager) - Bookmark manager for power users.
 
 ## Node
 
