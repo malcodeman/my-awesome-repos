@@ -23,7 +23,7 @@
 - [reader](https://github.com/malcodeman/reader) - All-in-One news reader.
 - [reminders](https://github.com/malcodeman/reminders) - To-Do App.
 - [qa-client](https://github.com/malcodeman/qa-client) - Unlimited private questions and answers in a searchable archive.
-- [influencer-db-client](https://github.com/malcodeman/influencer-db-client) - Influencer platform.
+- [infludb](https://github.com/malcodeman/infludb) - The influencer marketing platform.
 - [redux-saga-recipes](https://github.com/malcodeman/redux-saga-recipes) - Redux Saga recipes.
 - [asset-tracker-frontend](https://github.com/malcodeman/asset-tracker-frontend) - Software for maintenance & facilities.
 - [analytics-frontend](https://github.com/malcodeman/analytics-frontend) - Simple analytics for startups.
