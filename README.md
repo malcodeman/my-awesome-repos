@@ -38,7 +38,7 @@
 - [bosnianswho.design](https://github.com/malcodeman/bosnianswho.design) - Directory of accomplished Bosnians in the IT industry.
 - [loyalty-program](https://github.com/malcodeman/loyalty-program) - Loyalty and engagement program web app, powered by Notion as a database.
 - [malcodeman.com](https://github.com/malcodeman/malcodeman.com) - My online portfolio.
-- [mersihaceranic.com](https://github.com/malcodeman/mersihaceranic.com) - Mersiha Ćeranić profile page.
+- [mersihaceranic.com](https://github.com/malcodeman/mersihaceranic.com) - Mersiha Karamustafić profile page.
 - [resumebuilder.dev](https://github.com/malcodeman/resumebuilder.dev) - Free resume builder for developers.
 - [datamock](https://github.com/malcodeman/datamock) - Random data generator.
 - [blockchain-explorer](https://github.com/malcodeman/blockchain-explorer) - Blockchain information for blocks & transactions.
