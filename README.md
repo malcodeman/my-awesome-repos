@@ -19,7 +19,6 @@
 - [crypto-portfolio](https://github.com/malcodeman/crypto-portfolio) - Bitcoin & cryptocurrency portfolio tracker.
 - [confessions-client](https://github.com/malcodeman/confessions-client) - A mutually supportive community where deeply emotional things you can't tell people you know can be told.
 - [polaroid-client](https://github.com/malcodeman/polaroid-client) - Polaroid is small, lean and pretty ✨ project-based-learning result heavily inspired by Instagram.
-- [reddit-client](https://github.com/malcodeman/reddit-client) - Content oriented reddit client which aims to show reddit images and videos in most efficient way possible.
 - [reader](https://github.com/malcodeman/reader) - All-in-One news reader.
 - [reminders](https://github.com/malcodeman/reminders) - To-Do App.
 - [qa-client](https://github.com/malcodeman/qa-client) - Unlimited private questions and answers in a searchable archive.
@@ -52,6 +51,7 @@
 - [pomodoro-app](https://github.com/malcodeman/pomodoro-app) - Small, simple and sweet time management app.
 - [bookmark-manager](https://github.com/malcodeman/bookmark-manager) - Bookmark manager for power users.
 - [sensei.sh](https://github.com/malcodeman/sensei.sh) - Project based learning hub.
+- [lurkstation](https://github.com/malcodeman/lurkstation) - Content oriented reddit client which aims to show reddit images and videos in most efficient way possible.
 
 ## Node
 
