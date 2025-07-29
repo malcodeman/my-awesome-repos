@@ -51,6 +51,7 @@
 - [pomodoro-app](https://github.com/malcodeman/pomodoro-app) - Small, simple and sweet time management app.
 - [bookmark-manager](https://github.com/malcodeman/bookmark-manager) - Bookmark manager for power users.
 - [lurkstation](https://github.com/malcodeman/lurkstation) - Content oriented reddit client which aims to show reddit images and videos in most efficient way possible.
+- [hygge-ui](https://github.com/malcodeman/hygge-ui) - Cozy component library built on top of Ark UI.
 
 ## Node
 
